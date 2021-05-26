@@ -1,0 +1,16 @@
+---
+title: "A Vaccination Approach to the Coronavirus"
+author: "Nicholas Rivera"
+date: "5/23/2021"
+output: html_document
+---
+
+# The Coronavirus
+
+The Coronavirus disease 2019 or COVID-19 is a contagious virus that has spread throughout the entire world. The virus first originated sometime in December 2019 in Wuhan, China. The virus itself is spread through the inhalation of airborne particles and droplets and because it is an infectious disease, it is highly transmissible between an infected individual and a non-infected individual.
+
+# A Return To Normal
+
+There have been many media discussions about a return to normal and when our lives will return to as they were before March 2020. Many terms have been included in the vernacular of our daily lives such as Herd Immunity and Vaccine Distribution. In order to assist in giving an answer to the question dominating our lives, with data I will attempt to demonstrate and answer how effective vaccines have been to the spread of the Coronavirus Disease by correlating the number of vaccinations initiated and vaccinations completed to new cases, reviewing historic data and measuring the effectiveness of the vaccines in preventing new cases, and reviewing the successful mitigation of coronavirus in highly successful countries versus efforts from unsuccessful countries in order to plot data trends. Algorithms that will be used in this research will be regression techniques: Linear Regression to map infection trends and non-linear to map vaccinations. I will use clustering methods such as K-Means and KNN to demonstrate locations that have successful mitigation vs unsuccessful mitigation.
+
+The benefit of mapping trends will give an idea of how successful efforts are against the Coronavirus. The purpose of this data review is to demonstrate when a ”return to normal” will finally be possible.
